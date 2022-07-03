@@ -1,10 +1,10 @@
-{
-  "item1": {
-    "image": "",
-    "name": "Uptime Store"
-  },
-  "item2": {
-    "image": "",
-    "name": "Uptime Club"
-  }
-}
+[{
+"item1": {
+"image": "",
+"name": "Uptime Store"
+}]
+[
+"item2": {
+"image": "",
+"name": "Uptime Club"
+}]
