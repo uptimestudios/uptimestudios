@@ -1,1 +1,17 @@
-[{"project_name":"Uptime Club","version":"0.2.9 Beta"},{"project_name":"Uptime Tube","version":"1.1 Beta"},{"project_name":"Uptime Store","version":"1.8 Beta"}]
+{
+  "Uptime Club": {
+    "project_icon": "",
+    "project_name": "Uptime Club",
+    "project_version": "v0.2.9 Beta"
+  },
+  "Uptime Tube": {
+    "project_icon": "",
+    "project_name": "Uptime Tube",
+    "project_version": "v1.1 Beta"
+  },
+  "Uptime Store": {
+    "project_icon": "",
+    "project_name": "Uptime Store",
+    "project_version": "v1.7 Beta"
+  }
+}
